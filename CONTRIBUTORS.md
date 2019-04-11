@@ -1,4 +1,4 @@
- # Contributors
+# Contributors
 
 -[@maieuldelpino](https://github.com/maieuldelpino)
 
@@ -35,6 +35,8 @@
 -[@UnknownFearNG](https://github.com/UnknownFearNG)
 
 -[@longgamegoodstride](https://github.com/longgamegoodstride)
+
+-[@toughguyas](https://github.com/toughguyas)
 
 -[@Virtual1](https://github.com/Virtual1)
 
@@ -2144,7 +2146,6 @@
 
 -[@Vyper248](https://github.com/Vyper248)
 
-
 -[@may-a](https://github.com/may-a)
 
 -[@nkleene](https://github.com/nkleene)
@@ -3377,4 +3378,44 @@
 
 -[@gakanjira](https://github.com/gakanjira)
 
--[@yuvensg](https://github.com/yuvensg)
+-[@dykrupp](https://github.com/dykrupp)
+
+-[@balagotb](https://github.com/balagotb)
+
+-[@GamerKingFaiz](https://github.com/GamerKingFaiz)
+
+-[@HarshJoshiIIITV](https://github.com/HarshJoshiIIITV)
+
+-[@hafizjavaid](https://github.com/hafizjavaid)
+
+-[@thavadas](https://github.com/thavadas)
+
+-[@HaemeeNabors](https://github.com/HaemeeNabors)
+
+-[@okaziya](https://github.com/okaziya)
+
+-[@ileanahi](https://github.com/ileanahi)
+
+-[@t-mak](https://github.com/t-mak)
+
+-[@fusaeed](https://github.com/fusaeed)
+
+-[@pchandler858](https://github.com/pchandler858)
+
+-[@javascript2019](https://github.com/javascript2019)
+
+-[@devstudent89](https://github.com/devstudent89)
+
+-[@numeroflip](https://github.com/numeroflip)
+
+-[@oluwatunbi](https://github.com/oluwatunbi)
+
+-[@kbruckenstein](https://github.com/kbruckenstein)
+
+-[@DosticJelena](https://github.com/DosticJelena)
+
+-[@jcohen120](https://github.com/jcohen120)
+
+-[@TechDan09](https://github.com/TechDan09)
+
+-[@mViolet](https://github.com/mViolet)
